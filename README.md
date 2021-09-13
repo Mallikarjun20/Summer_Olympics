@@ -4,13 +4,13 @@ Its a Beginner Level Project
 Language Used - PYTHON
 Modules Used - pandas, numpy, collections, matplotlib
 
-**Concepts Used Through the Project-->>
+** Concepts Used Through the Project
 * File Handling
 * Importing Modules
 * Basic Data Structures concepts like - DICTIONARY, LISTS etc
 * Basic Data manipulation
 
-**Questions Answered in the Project
+** Questions Answered in the Project
 * In how many cities Summer Olympics is held so far?
 * Which Country is having most number of Gold Medals so far? (Top 5)
 * Which sport is having most number of Gold Medals so far? (Top 5)
